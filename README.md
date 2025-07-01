@@ -38,7 +38,7 @@ python predict.py [fea1] [fea2] [path] [k] #k, feature selection index
 ```
 <br>
 
-## Wen
+## Web
 We have developed a web server for the above process to facilitate its usage.
 ```bash
 http://aidd.bioai-global.com/anoxp/
